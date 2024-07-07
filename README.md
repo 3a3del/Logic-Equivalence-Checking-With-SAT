@@ -34,16 +34,6 @@ compare these two logic networks 𝐹 and 𝐺 , which are each functions of 5 v
   
   
 
-**The Answar provieded, GoodLuck!
-#Results
-KBDD: satisfy diff
- - The means that the two gate level network equivalent 'only when'                                                                              
-Variables: x y z w v become
-01101
-10001
-10101
-11000  
-  
   
   
   
